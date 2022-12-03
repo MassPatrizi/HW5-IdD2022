@@ -2,5 +2,5 @@
 
 Gruppo composto da:
 - Ludovica Mallardo
-- Alessandro Sajeva
-- Massimiliano Patrizi
+- Alessandro Sajeva 521125
+- Massimiliano Patrizi 508637
