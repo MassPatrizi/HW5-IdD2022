@@ -9,3 +9,5 @@ Per eseguire i notebook nell'ambiente virtuale:
 - eseguire nella cartella del progetto il comando: .\venv_hw5_idd\Scripts\activate
 - se viene restituito un errore, provare ad eseguire: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 - riprovare
+
+altre info sui virtual environments qui: https://code.visualstudio.com/docs/python/environments#_create-a-virtual-environment-in-the-terminal
